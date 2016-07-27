@@ -5,3 +5,6 @@ $ cd
 $ rm .tmux.conf
 $ git clone https://github.com/jarsonfang/tmux.git
 $ ln -s tmux/tmux.conf .tmux.conf
+
+add the following line to ~/.bash_aliases file:
+alias tmux='tmux -2'
