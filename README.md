@@ -6,7 +6,13 @@ My tmux configuration
 $ sudo apt-get install tmux
 ```
 
-### Install configuration
+### Install dependency
+
+```bash
+$ sudo apt-get install xsel
+```
+
+### Configuration
 
 ```bash
 $ cd
