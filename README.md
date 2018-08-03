@@ -17,7 +17,7 @@ $ sudo apt-get install xsel
 ```bash
 $ cd
 $ rm .tmux.conf
-$ git clone https://github.com/jarsonfang/tmux.git
+$ git clone https://github.com/pishuli/tmux.git
 $ ln -s tmux/tmux.conf .tmux.conf
 ```
 
@@ -27,5 +27,7 @@ alias tmux='tmux -2'
 ```
 
 ### Install powerline fonts
+```bash
 $ git clone https://github.com/powerline/fonts.git
 $ cd fonts && ./install.sh
+```
