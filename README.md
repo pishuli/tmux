@@ -25,3 +25,7 @@ add the following line to `~/.bash_aliases` file and then `source ~/.bash_aliase
 ```bash
 alias tmux='tmux -2'
 ```
+
+### Install powerline fonts
+$ git clone https://github.com/powerline/fonts.git
+$ cd fonts && ./install.sh
